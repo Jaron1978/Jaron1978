@@ -3,6 +3,7 @@
 # print("it is.......")
 
 # The code below demonstartes using the Escape sequences. 
+# \n to ceate a new line. 
 
 print("\t\t\tGame Credits!")
 print("\t\t\t \\ \\ \\ \\ \\ \\ \\ \\")
