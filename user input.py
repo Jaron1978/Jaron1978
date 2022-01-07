@@ -7,7 +7,7 @@ age = int(age)
 
 weight = float(input("Okay, last question. What do you weigh in Stone and Pounds? "))
 
-input("Press Enter to Exit! ")
-
 # The code in the book weight as pounds only, but I wanted to add Stone and Pounds. 
 # To do this, I changed weight = int to weight = float which allows for 16.1 in my case. 
+
+input("Press Enter to Exit! ")
