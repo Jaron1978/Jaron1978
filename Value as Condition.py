@@ -11,3 +11,5 @@ else:
     print("Please sit and wait. This may take a while!!")
 
 input("\n\nPress Enter to exit")
+
+# Basic principle is empty or zero value = false. everything else is true. 
