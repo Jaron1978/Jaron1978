@@ -5,9 +5,6 @@
 
 - Contact me via jacksonr1978@gmail.com or via Linked In at www.linkedin.com/in/ronjackson
 
-- filename.py code is from the tasks I have completed using Python for the absolute beginner book. 
-- PCEP_x.x.x.xname.py code is from the labs that I must complete via the official Python PCEP course. 
-
 <!---
 Jaron1978/Jaron1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
