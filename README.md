@@ -1,6 +1,5 @@
 - Hi, Im Ron and this is my GitHub repo. 
-- Im currently learning Python with the intention of gaining the PCEP – Certified Entry-Level Python Programmer Certification. 
-- I currently work in IT as a Systems Engineer. The objective of learning Python / Linux and other valuable skills is to enable me to move into a more Dev Ops / Net Ops focused role. 
+- I currently work in IT as a Systems Engineer. The objective of learning Python / Linux and other valuable skills is to enable me to move into a more Dev Ops / Cloud focused role. 
 
 - Contact me via jacksonr1978@gmail.com or via Linked In at www.linkedin.com/in/ronjackson
 
