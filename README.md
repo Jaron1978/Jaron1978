@@ -1,6 +1,10 @@
-Hi, I’m Ron 👋
+<p align="center">
+  <img src="./github-profile-banner.png" alt="Ron Jackson — Senior IT Engineer | Cloud & AI" width="100%">
+</p>
 
-Senior IT Engineer | Cloud & AI
+# Hi, I'm Ron 👋
+
+### Senior IT Engineer | Cloud & AI
 
 I’m a Senior IT Engineer developing practical skills across cloud computing, artificial intelligence and automation through hands-on projects, professional development and continuous learning.
 
