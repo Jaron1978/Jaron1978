@@ -2,7 +2,11 @@
   <img src="./github-profile-banner.png" alt="Ron Jackson — Senior IT Engineer | Cloud & AI" width="100%">
 </p>
 
-I’m a Senior IT Engineer developing practical skills across cloud computing, artificial intelligence and automation through hands-on projects, professional development and continuous learning.
+
+Hi, I’m Ron 👋
+
+I’m a Senior IT Engineer developing practical skills across cloud computing…
+
 
 My GitHub documents that journey — from building and operating a cloud-hosted portfolio on AWS to developing RonBot, an AI-powered assistant designed to help visitors explore my experience and projects conversationally.
 
