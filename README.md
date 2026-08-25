@@ -2,56 +2,55 @@
   <img src="./github-profile-banner.png" alt="Ron Jackson — Senior IT Engineer | Cloud & AI" width="100%">
 </p>
 
+<h2 align="center">Hi, I'm Ron 👋</h2>
+<p align="center">
+Senior IT Engineer building practical experience across <strong>Cloud, AI & Automation</strong> through hands-on projects and continuous learning.
+</p>
 
-Hi, I’m Ron 👋
+<p align="center">
+  <a href="https://www.ron-jackson.co.uk">🌐 Portfolio</a> •
+  <a href="https://github.com/Jaron1978/website-project">☁️ Cloud Portfolio</a> •
+  <a href="https://github.com/Jaron1978/RonBot-repo">🤖 RonBot</a> •
+  <a href="https://www.linkedin.com/in/ronjackson">💼 LinkedIn</a>
+</p>
 
-I’m a Senior IT Engineer developing practical skills across cloud computing…
+## 🚀 Featured Projects
 
+### 🌐 Cloud Resume & Portfolio Website
 
-My GitHub documents that journey — from building and operating a cloud-hosted portfolio on AWS to developing RonBot, an AI-powered assistant designed to help visitors explore my experience and projects conversationally.
+AWS-hosted portfolio and Cloud Resume Challenge project combining frontend development with practical cloud infrastructure.
 
-🚀 Featured Projects
+**AWS · Lambda · DynamoDB · CloudFront · Python**
 
-🌐 Cloud Resume & Portfolio Website
+[View Project →](https://github.com/Jaron1978/website-project) · [Visit Website →](https://www.ron-jackson.co.uk)
 
-A production portfolio website built and hosted on AWS, combining frontend development with practical cloud infrastructure.
+---
 
-Technologies: AWS · S3 · CloudFront · Route 53 · API Gateway · Lambda · DynamoDB · Python · HTML · CSS · JavaScript
+### 🤖 RonBot — Portfolio AI Assistant
 
-View Project · Visit Website
+Website-grounded AI assistant designed to help visitors explore my experience, skills and projects conversationally.
 
-🤖 RonBot — Portfolio AI Assistant
+**Python · Retrieval · RAG · AWS · JavaScript**
 
-An AI assistant being developed to provide a conversational way to explore my portfolio, experience and projects using website-grounded knowledge.
+[View Project →](https://github.com/Jaron1978/RonBot-repo)
 
-The project is being built incrementally, documenting the architecture, retrieval system, development process and eventual cloud deployment.
+## 🛠️ Technologies
 
-Technologies: Python · AI/RAG · Retrieval · AWS · JavaScript
+**Cloud:** AWS · Microsoft Azure · Google Cloud · Cloud Architecture
+**Development:** Python · HTML · CSS · JavaScript  
+**Platforms:** Linux · Git · GitHub  
+**AI & Learning:** RAG · Retrieval · Semantic Search
 
-View Project
+## 📍 Currently Building
 
-🛠️ Technologies & Skills
+🤖 **RonBot v1** — Website-grounded portfolio assistant  
+☁️ **Cloud Resume Challenge** — AWS implementation and engineering documentation  
+🌃 **Portfolio Phase 2** — London Cloud Experience  
+🎓 **BSc (Hons) Computing & IT** — The Open University
 
-Cloud: AWS · Microsoft Azure · Google Cloud
-Development: Python · HTML · CSS · JavaScript
-Platforms: Linux · Git · GitHub
-Currently Exploring: Artificial Intelligence · RAG · Semantic Search · Cloud Architecture
+<p align="center">
+  <a href="https://www.ron-jackson.co.uk">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ronjackson">LinkedIn</a> •
+  <a href="https://github.com/Jaron1978?tab=repositories">Repositories</a>
+</p>
 
-🎓 Continuous Learning
-
-I’m continuing to develop my technical knowledge through professional certifications, independent projects and my BSc (Hons) Computing & IT with The Open University.
-
-My focus is increasingly on combining my existing IT engineering experience with practical Cloud and AI skills.
-
-🌐 Connect
-🌍 Portfolio
-💼 LinkedIn
-
-⸻
-
-Building practical Cloud & AI experience, one project at a time.
-
-<!---
-Jaron1978/Jaron1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
