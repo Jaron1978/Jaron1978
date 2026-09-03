@@ -4,7 +4,8 @@
 
 <h2 align="center">Hi, I'm Ron 👋</h2>
 <p align="center">
-Senior IT Engineer building practical experience across <strong>Cloud, AI & Automation</strong> through hands-on projects and continuous learning.
+  
+Senior IT Engineer building practical experience across <strong>Cloud, AI & Automation</strong> through hands-on engineering projects, cloud platforms and continuous learning.
 </p>
 
 <p align="center">
@@ -28,25 +29,27 @@ AWS-hosted portfolio and Cloud Resume Challenge project combining frontend devel
 
 ### 🤖 RonBot — Portfolio AI Assistant
 
-Website-grounded AI assistant designed to help visitors explore my experience, skills and projects conversationally.
+Website-grounded AI assistant with a deployed AWS serverless backend, designed to help visitors explore my experience, skills and technical projects through natural conversation.
 
-**Python · Retrieval · RAG · AWS · JavaScript**
+Current implementation combines website knowledge ingestion, Python retrieval and grounded-answer logic with Amazon API Gateway, AWS Lambda and CloudWatch. Amazon Bedrock model integration is the next development milestone.
 
-[View Project →](https://github.com/Jaron1978/RonBot-repo)
+**Python · AWS Lambda · API Gateway · CloudWatch · Retrieval · Grounding · JavaScript**
+
+[View Project →](https://github.com/Jaron1978/RonBot-repo) · [View on Portfolio →](https://www.ron-jackson.co.uk/project-02.html)
 
 ## 🛠️ Technologies
 
-**Cloud:** AWS · Microsoft Azure · Google Cloud · Cloud Architecture
+**Cloud:** AWS · Microsoft Azure · Google Cloud · Cloud Architecture  
 **Development:** Python · HTML · CSS · JavaScript  
-**Platforms:** Linux · Git · GitHub  
-**AI & Learning:** RAG · Retrieval · Semantic Search
+**Platforms & Tooling:** Linux · Git · GitHub  
+**AI:** Retrieval · Grounding · RAG concepts · Semantic Search
 
 ## 📍 Currently Building
 
-🤖 **RonBot v1** — Website-grounded portfolio assistant  
-☁️ **Cloud Resume Challenge** — AWS implementation and engineering documentation  
-🌃 **Portfolio Phase 2** — London Cloud Experience  
-🎓 **BSc (Hons) Computing & IT** — The Open University
+🤖 **RonBot v1** — RON-13 AI model integration next  
+☁️ **Cloud Resume Challenge** — automated testing and Infrastructure as Code next  
+🌃 **Portfolio Phase 2** — London Cloud Experience planned  
+
 
 <p align="center">
   <a href="https://www.ron-jackson.co.uk">Portfolio</a> •
