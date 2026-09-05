@@ -29,11 +29,9 @@ AWS-hosted portfolio and Cloud Resume Challenge project combining frontend devel
 
 ### 🤖 RonBot — Portfolio AI Assistant
 
-Website-grounded AI assistant with a deployed AWS serverless backend, designed to help visitors explore my experience, skills and technical projects through natural conversation.
+Website-grounded AI assistant combining Python retrieval with Amazon Nova Micro through Amazon Bedrock to generate grounded responses from my portfolio content.
 
-Current implementation combines website knowledge ingestion, Python retrieval and grounded-answer logic with Amazon API Gateway, AWS Lambda and CloudWatch. Amazon Bedrock model integration is the next development milestone.
-
-**Python · AWS Lambda · API Gateway · CloudWatch · Retrieval · Grounding · JavaScript**
+Python · AWS Lambda · Amazon Bedrock · Nova Micro · Retrieval · JavaScript
 
 [View Project →](https://github.com/Jaron1978/RonBot-repo) · [View on Portfolio →](https://www.ron-jackson.co.uk/project-02.html)
 
@@ -46,7 +44,7 @@ Current implementation combines website knowledge ingestion, Python retrieval an
 
 ## 📍 Currently Building
 
-🤖 **RonBot v1** — RON-13 AI model integration next  
+🤖 **RonBot v1** RON-13 AI model integration complete · RON-14 conversation context next  
 ☁️ **Cloud Resume Challenge** — automated testing and Infrastructure as Code next  
 🌃 **Portfolio Phase 2** — London Cloud Experience planned  
 
